@@ -10,7 +10,7 @@
 </head>
 
 <body>
-This is the Widget Company
+This is the Widget Company. In business over 100 years.
 
 
 
