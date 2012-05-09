@@ -6,4 +6,6 @@
   <packaging>war</packaging>
   <name>Widgets</name>
   <description>The widget company</description>
+  <dependencies>
+  </dependencies>
 </project>
