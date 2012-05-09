@@ -13,7 +13,7 @@
 This is the Widget Company
 
 
-
+They date is
 <%= new java.util.Date() %>
 
 
